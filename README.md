@@ -25,4 +25,4 @@ There are three files:
 
   An example usage of these classes can be found in the `main.ipynb` notebook.
 
-  **Note**: This python file contains only the modular classes, so there is no scraping or preprocessing section, this is because these parts depends on the data structure, while the classes contained don't: they require the data to be preprocessed (As usually an example can be found in the `main.ipynb` notebook).
+  **Note**: This python file contains only the modular classes, so there is no scraping or preprocessing section, this is because these parts depend on the data structure, while the classes contained don't: they require the data to be preprocessed (As usually an example can be found in the `main.ipynb` notebook).
